@@ -124,4 +124,4 @@ Linuxize
 git push --tags — Push all tags. 
 Linuxize
 Linuxize
-This cheat sheet summarizes the most commonly used Git commands for everyday development workflows.
+This cheat sheet summarizes the most commonly used Git commands for everyday development workflows.(you can also git fetch)
